@@ -43,6 +43,7 @@ After that, open a new terminal and run:
 ```bash
 weather
 ```
+or the command you've set
 
 ## Notes
 
